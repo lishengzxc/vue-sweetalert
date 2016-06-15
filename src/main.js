@@ -1,7 +1,3 @@
-import Vue from 'vue'
-import App from './App.vue'
+import VueSweetAlert from './vue-sweetalert'
 
-new Vue({
-  el: 'body',
-  components: { App }
-})
+export default VueSweetAlert
