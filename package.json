@@ -4,6 +4,7 @@
   "description": "vue-sweetalert",
   "main": "build/vue-sweetalert.js",
   "author": "ls",
+  "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --config webpack.dev.config.js",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
