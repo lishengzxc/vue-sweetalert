@@ -1,6 +1,6 @@
 import Vue from 'vue'
-import swal from 'sweetalert'
-require('sweetalert/dist/sweetalert.css')
+import swal from 'sweetalert2'
+require('sweetalert2/dist/sweetalert2.css')
 
 const VueSwal = {}
 
