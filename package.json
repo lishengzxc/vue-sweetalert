@@ -1,6 +1,6 @@
 {
   "name": "vue-sweetalert",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "vue-sweetalert",
   "main": "build/vue-sweetalert.js",
   "author": "ls",
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.0.0",
-    "sweetalert2": "^5.3.1",
+    "sweetalert2": "^6.2.0",
     "vue": "^1.0.0"
   },
   "devDependencies": {
