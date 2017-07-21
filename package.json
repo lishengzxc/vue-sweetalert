@@ -3,7 +3,7 @@
   "version": "0.1.18",
   "description": "vue-sweetalert",
   "main": "build/vue-sweetalert.js",
-  "author": "ls",
+  "author": "lishengzxc",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --config webpack.dev.config.js",
